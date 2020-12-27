@@ -1,7 +1,9 @@
 ,vol5
 Preface: 
+
 Introduction: 
 -<i>Lomdut</i> and <i>Psak</i>: Theoretical Analysis and Halakhic Decision-Making 
+
 Chapter I Litigation and Arbitration before Non Jews: 
 -The Prohibition 
 -The Prohibition and the Vitality of Jewish Jurisprudence 
@@ -19,6 +21,7 @@ Chapter I Litigation and Arbitration before Non Jews:
 -Custody Disputes 
 -Insurance Indemnification 
 -Non-Observant Defendants 
+
 Chapter II Rabbinic Confidentiality: 
 -The Recent Judicial Proceeding 
 -Confidentiality in Jewish Law 
@@ -29,6 +32,7 @@ Chapter II Rabbinic Confidentiality:
 -Rabbis and the Clergyman-Penitent Privilege 
 -Legal Accommodation of Rabbinic Duty 
 -A Proposed Remedy 
+
 Chapter III Mizvot in the Polar Regions and in Earth Orbit: 
 -The Problem 
 -R. Jacob Emden 
@@ -38,10 +42,12 @@ Chapter III Mizvot in the Polar Regions and in Earth Orbit:
 -Orbiting the Earth 
 -Prayer in the Polar Regions 
 -An Afterword 
+
 Chapter IV Use of Surveillance Systems on Shabbat: 
 -Closed-Circuit Television 
 -Video Cameras 
 -Motion Detectors 
+
 Chapter V Use of Automatic Telephone Answering and Fax Machines on Shabbat: 
 -Problems in Connecting the Device 
 -Forbidden Labor 
@@ -53,15 +59,18 @@ Chapter V Use of Automatic Telephone Answering and Fax Machines on Shabbat:
 -Mukzah 
 -Reading the Fax 
 -Delayed Transmission 
+
 Chapter VI Further Shabbat Questions: 
 -Use of Crockpots on</b> Sha 
 -Care of Soft Contact Lenses on Shabbat 
 -Wheelchairs on</b> Sha 
+
 Chapter VII The Milk Contretemps: 
 -Left Displaced Abomasum and Its Treatment 
 -Applicability of</b> Kol de-Pa 
 -Organ Perforation and</b> Tre 
 -Reliance upon Bittul or Nullification 
+
 Chapter VIII The Whiskey Brouhaha: 
 -Nullification of Forbidden Wine 
 -Wine Used to Impart Flavor 
@@ -69,13 +78,16 @@ Chapter VIII The Whiskey Brouhaha:
 -Nullification on Behalf of Jewish Purchasers 
 -Reasons for Stringency 
 -A Final Note 
+
 Chapter IX Kashrut: 
 -Certification 
 -Is the Giraffe a Kosher Animal? 
 -The Zebu Problem 
+
 Chapter X The Ketubah: 
 -Delivery of the</b> Ket 
 -Takes Place 
+
 Chapter XI Insurance Related Questions: 
 -Double Compensation for a Single Loss 
 -The Question 
@@ -85,6 +97,7 @@ Chapter XI Insurance Related Questions:
 -The Case of a Borrowed Automobile 
 -Double Compensation for Medical Expenses 
 -Life Insurance and the</b> Ket 
+
 Chapter XII Kohanim and Flights Leaving Israel: 
 -The Problem 
 -Defilement through Overhanging 
@@ -100,6 +113,7 @@ Chapter XII Kohanim and Flights Leaving Israel:
 -—Concomitant Permissible Defilement 
 -Plastic Body Bags 
 -A Practical Suggestion 
+
 Chapter XIII Silk Screened Torah Scrolls: 
 -The Silk Screen Method 
 -Reaction to the Silk Screen Method 
@@ -112,8 +126,10 @@ Chapter XIII Silk Screened Torah Scrolls:
 -Copying from an Existing Scroll 
 -Vocalization Prior to Writing 
 -Conclusion 
+
 Chapter XIV Miscellaneous: 
 -Torah Readings on Fast Days 
 -upon Purchase of a House 
 -Repast? 
 -Burial of a Non-Jew in a Jewish Cemetery 
+

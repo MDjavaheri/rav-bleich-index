@@ -11,7 +11,9 @@ function mapper(o, fileName) {
     o.forEach((entries, key) => {
         if (Array.isArray(entries)) {
             let headings = entries.filter(subheading)
-                                  .map(line => line.trim().substring(line.lastIndexOf('<b>')+3, line.length - 4));
+                                  .map(line => 
+                                    line.trim()
+                                        .substring(line.lastIndexOf('<b>')+3, line.length - 4));
             output[key] = headings;
             outText += `${key}: \n`;
             headings.forEach(h => {
@@ -24,6 +26,7 @@ function mapper(o, fileName) {
             outText += `${key}: \n`;
             outText += `${sub[1]} \n`;
         }
+        outText += '\n';
     });
     return [output, outText];
 }
@@ -33,8 +36,6 @@ filenames.forEach((file) => {
     let vol = file.substring(0, 4);
     const seferMap = new Map(Object.entries(sefer.text));
     toc = mapper(seferMap, vol);
-    console.log(toc);
-    fs.writeFile(`${vol}-toc.txt`, toc, function (err) {
+    fs.writeFile(`./tocs/${vol}-toc.txt`, toc, function (err) {
         if (err) throw err;
-        console.log('Saved!');
-    })});
+})});
